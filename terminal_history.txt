@@ -1,0 +1,935 @@
+   50  ls
+   51  cd
+   52  cd desktop
+   53  pwd
+   54  ls
+   55  mkdir Fintech_Workspace
+   56  ls
+   57  pwd
+   58  cd _
+   59  cd -
+   60  cd desktop fintech
+   61  cd desktop fintech_workspace
+   62  python
+   63  python3.1.0
+   64  python
+   65  conda activate dev
+   66  --version
+   67  --version
+   68  ls
+   69  cd desktop
+   70  cd desktop/
+   71  ls
+   72  conda active dev
+   73  conda activate dev
+   74  --version
+   75  __version
+   76  python--version
+   77  python--version
+   78  cd fintech_workspace
+   79  python_project.py
+   80  python
+   81  ls
+   82  python
+   83  /Applications/Python\ 3.10/Install\ Certificates.command ; exit;
+   84  python3-intel64
+   85  python3-intel164
+   86  python--version
+   87  python --version
+   88  ls
+   89  cd Desktop/
+   90  cd Fintech-Workspace/
+   91  Python_project
+   92  conda activate dev
+   93  `conda info--envs` .
+   94  conda --version
+   95  conda activate
+   96  conda activate dev 
+   97  conda activate dev
+   98  conda deactivate dev
+   99  hello_python.py
+  100  conda deactivate
+  101  hello_python.py
+  102  conda deactivate
+  103  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)\n\n-c/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)
+  104  cmd whoami
+  105  $ brew install --cask firefox
+  106   brew install --cask firefox
+  107  xcode-select --install
+  108  export HOMEBREW_BREW_GIT_REMOTE="..."  # put your Git mirror of Homebrew/brew here\nexport HOMEBREW_CORE_GIT_REMOTE="..."  # put your Git mirror of Homebrew/homebrew-core here\n/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+  109  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+  110  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+  111  cd Fintech-Workspace/
+  112  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+  113  ls -al ~/.ssh
+  114  id_rsa
+  115  -rw-----
+  116  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n\n
+  117  unset HOMEBREW_BREW_GIT_REMOTE HOMEBREW_CORE_GIT_REMOTE
+  118  > which brew\n/usr/local/bin/brew
+  119  which brew
+  120  brew --version
+  121  commmand -v brew
+  122  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+  123  brew help
+  124  echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/marissagonzales/.zprofile\n    eval "$(/opt/homebrew/bin/brew shellenv)"
+  125  echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/marissagonzales/.zprofile\n    eval "$(/opt/homebrew/bin/brew shellenv)"
+  126  echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/marissagonzales/.zprofile\n    eval "$(/opt/homebrew/bin/brew shellenv)"
+  127  conda deactivate==> Installation successful!\n\n==> Homebrew has enabled anonymous aggregate formulae and cask analytics.\nRead the analytics documentation (and how to opt-out) here:\n  https://docs.brew.sh/Analytics\nNo analytics data has been sent yet (nor will any be during this install run).\n\n==> Homebrew is run entirely by unpaid volunteers. Please consider donating:\n  https://github.com/Homebrew/brew#donations\n\n==> Next steps:\n- Run these two commands in your terminal to add Homebrew to your PATH:\n    echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/marissagonzales/.zprofile\n    eval "$(/opt/homebrew/bin/brew shellenv)"\n- Run brew help to get started\n- Further documentation:\n    https://docs.brew.sh
+  128  $ brew install git
+  129  ls -al~/.ssh
+  130  id-rsa
+  131  id_rsa
+  132  ssh-keygen –t rsa –b 4096 –C "YOURGITHUBEMAIL@PLACEHOLDER.NET"
+  133  id_rsa.pub
+  134  open .
+  135  id_rsa .pub
+  136  /usr/local/bin/python3 "/Users/marissagonzales/Python_Project/FINTECH WORKSPACE/hello_python.py"
+  137  code .
+  138  ls -al ~/ .ssh
+  139  ssh-keygen -t rsa -b 4096 -C "marissagonzales468@gmail.com"
+  140  eval "(ssh-agent -s)"
+  141  eval "$(ssh-agent -s)"
+  142  ssh-add ~/ .ssh/id_rsa
+  143  pbcopy < ~/ .ssh/id_rsa.pub
+  144  pbcopy < ~/.ssh/id_rsa.pub\n
+  145  eval "(ssh-agent -s)"ssh -T github.com
+  146  $ ssh -T git@github.com
+  147  ssh -T git@github.com
+  148  github .
+  149  git config -1
+  150  git config -l
+  151  ls -al ~/ .ssh
+  152  ssh-keygen -t rsa -b 4096 -C "marissagonzales468@gmail.com"
+  153  eval "$(ssh-agent -s)"
+  154  ssh-add ~/ .ssh/id_rsa
+  155  ssh -T git@github.com
+  156  ls -l
+  157  cd ~/ .ssh
+  158  cd ~/.ssh
+  159  ls
+  160  ssh-keygen -t rsa -C"marissagonzales468@gmail.com"
+  161  ssh-add ~/ .ssh/id_rsa
+  162  cd ~/ .ssh .
+  163  cd ~/ .ssh
+  164  ls
+  165  $ ssh -T git@github.com
+  166  ssh -T git@github.com
+  167  ssh -T git@github.com
+  168  git push 
+  169  id_rsa.pub
+  170  git push
+  171  ssh -T marissagonzales468@users.noreply.github.com
+  172    ls
+  173  code .
+  174  conda --versiom
+  175  conda --version
+  176  python3 -m venv tutorial-env
+  177  .venv.
+  178  .env
+  179  source tutorial-env/bin/activate
+  180  activate.csh
+  181  activate.fish
+  182  pip
+  183  requirements.txt
+  184  source tutorial-env/bin/activate
+  185  python3 -m venv /path/to/new/virtual/environment
+  186  conda --version
+  187  conda update conda
+  188  conda update anaconda
+  189  conda create -n dev python=3.7 anaconda
+  190  conda activate dev
+  191  conda init zsh
+  192  echo #{SHELL}
+  193  python -m ipykernel install --user --name dev
+  194  python -m ipykernel install --user --name dev\n
+  195  conda install -c conda-forge nodejs
+  196  conda deactivate
+  197  cd
+  198  cd ~
+  199  cd ..
+  200  ls
+  201  pwd
+  202  mkdir <fintech_workspace>
+  203  open .
+  204  cd Desktop
+  205  cd desktop
+  206  cd
+  207  git clone <repo name>
+  208  cd
+  209  cd desktop
+  210  mkdir test
+  211  terminal_prework
+  212  touch <terminal_prework>
+  213  open .
+  214  open .
+  215  terminal prewor
+  216  terminal prework 
+  217  terminal_prework
+  218  touch sample.txt 
+  219  touch sample.txt
+  220  cd test
+  221  ls
+  222  cd ..
+  223  mv sample.txt test
+  224  cd test
+  225  ls
+  226  cir
+  227  dir
+  228  >rename sample.txt
+  229  cd dir
+  230  rename sample.txt test.txt
+  231  cd dir
+  232  cd desktop
+  233  rename sample.txt example.txt
+  234  rename open .
+  235  open .
+  236  cd ~/desktop
+  237  mv
+  238  cd ~desktop/
+  239  cd ~/desktop
+  240  git clone git@github.com:marissagonzales468/coding-test.git
+  241  ~/test_commands git clone git@github.com:marissagonzales468/coding-test.git
+  242  cd ~/desktop
+  243  git clone git@github.com:marissagonzales468/coding-test.git
+  244  cd
+  245  open .
+  246  git add .
+  247  cd ~/desktop
+  248  git checkout -b new-branch-name
+  249  git add -A
+  250  git commit -m "some message"
+  251  git push origin new-branchname
+  252   git checkout branch-name
+  253  git checkout main
+  254  git pull
+  255  conda activate dev
+  256  jupyter lab
+  257  conda deactivate
+  258  conda activate dev 
+  259  jupyter lab
+  260  conda deactivate
+  261  conda deactivate
+  262  cd ~/desktop
+  263  ls
+  264  CD ~/fintech_workspace
+  265  conda activate dev
+  266  conda deactivate dev
+  267  conda deactivate
+  268  cd python_project/
+  269  conda activate dev
+  270  python --version
+  271  python hello_python.py
+  272  conda deactivate
+  273  ls
+  274  cd desktop/
+  275  cd ~/desktop
+  276  cd python-project/
+  277  ~/desktop
+  278  ls -l
+  279  chmod 755
+  280  /Users/marissagonzales/Desktop/terminal_prework/Fintech_Workspace/Python_Project/hello_python.py 
+  281  chown-r $[username]:[marissagonzales] [directorypath]
+  282  ~/desktop
+  283  chmod 755
+  284  ~/desktop
+  285  cd python_project
+  286  ls
+  287  conda activate dev
+  288  python --version
+  289  code .
+  290  cmd+shift+p
+  291  Cmd+Shift+P
+  292  $PATH
+  293  code .
+  294  code.
+  295  Visual Studio Code
+  296  Code
+  297  hello_python.py
+  298  conda deactivate
+  299  code .
+  300  code ,.
+  301  code .
+  302  conda activate dev
+  303  $ python M1L3.py
+  304  $ python M1L3.py 14.35 13.1
+  305  $ python M1L3.py 14.35 13.1
+  306  conda deactivate
+  307  conda activate dev
+  308  exit
+  309  python M
+  310  $python M1L3.py
+  311  python M1L3.py
+  312  conda activate dev
+  313  python M1L3.py
+  314  python M1L3.py
+  315  python M1L3.py
+  316  /usr/local/bin/python3 /Users/marissagonzales/Downloads/Class_2_Activities/07_Stu_Functions/Solved/functions.py
+  317  ls -al ~/.ssh
+  318  ssh-keygen -t rsa -b 4096 -C"marissagonzales468@gmail.com"
+  319  eval "$ssh-agent -s)"
+  320  $ eval "$(ssh-agent -s)"
+  321  eval "$(ssh-agent –s)". 
+  322  ssh-add ~/.ssh/id_rsa
+  323   ls –al ~/.ssh
+  324  id_rsa
+  325  ssh-keygen –t rsa –b 4096 –C "marissagonzales468@gmail.com"
+  326  code .
+  327  conda activate dev
+  328  python M1l3
+  329  python M1L3.Py
+  330  fintech workspace M1L3.py
+  331  conda deactivate
+  332  open .
+  333  /usr/local/bin/python3 /Users/marissagonzales/Downloads/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  334  /usr/local/bin/python3 /Users/marissagonzales/Downloads/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  335  run python
+  336  python3
+  337  conda activate dev
+  338  python M1L4.py
+  339  python M1L3.py
+  340  /usr/local/bin/python3 "/Users/marissagonzales/Python_Project/FINTECH WORKSPACE/M1L3.py/M1L3.Py"
+  341  run python/usr/local/bin/python3 "/Users/marissagonzales/Python_Project/FINTECH WORKSPACE/M1L3.py/M1L3.Py"
+  342  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Listing_Assets/Unsolved/listing_assets.py
+  343  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Listing_Assets/Unsolved/listing_assets.py
+  344  /usr/local/bin/python3 /Users/marissagonzales/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  345  /usr/local/bin/python3 /Users/marissagonzales/Downloads/01_Conditional_Statement/Unsolved/conditional_statement.py
+  346  /usr/local/bin/python3 /Users/marissagonzales/Downloads/01_Conditional_Statement/Unsolved/conditional_statement.py
+  347  /usr/local/bin/python3 /Users/marissagonzales/Downloads/Class_2_Activities/08_Ins_Loops/Solved/loops.py
+  348  /usr/local/bin/python3 /Users/marissagonzales/Downloads/Class_2_Activities/08_Ins_Loops/Solved/loops.py
+  349  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  350  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  351  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  352  python nested_conditionals.py
+  353  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  354  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  355  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  356  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  357  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  358  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  359  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  360  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  361  /usr/local/bin/python3 /Users/marissagonzales/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  362  /usr/local/bin/python3 /Users/marissagonzales/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  363  /usr/local/bin/python3 /Users/marissagonzales/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  364  /usr/local/bin/python3 Untitled-1
+  365  /usr/local/bin/python3 Untitled-1
+  366  /usr/local/bin/python3 /Users/marissagonzales/Downloads/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  367  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  368  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  369  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  370  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  371  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  372  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  373  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  374  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  375  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  376  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  377  cls
+  378  clear
+  379  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  380  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  381  clear
+  382  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  383  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  384  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  385  clear
+  386  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  387  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  388  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  389  clear
+  390  /usr/local/bin/python3 /Users/marissagonzales/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  391  clear
+  392  /usr/local/bin/python3 /Users/marissagonzales/Downloads/03_Split_Second_Homebuying/Unsolved/M1L5.py
+  393  /usr/local/bin/python3 /Users/marissagonzales/Downloads/03_Split_Second_Homebuying/Unsolved/M1L5.py
+  394  /usr/local/bin/python3 /Users/marissagonzales/Downloads/03_Split_Second_Homebuying/Unsolved/M1L5.py
+  395  /usr/local/bin/python3 /Users/marissagonzales/Downloads/03_Split_Second_Homebuying/Unsolved/M1L5.py
+  396  cat ~/.ssh/id_rsa.pub
+  397  cd
+  398  cd desktop
+  399  ls
+  400  cd gitlab
+  401  git init
+  402  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-09-2022-U-B.git
+  403  ls
+  404  cd u
+  405  cd 
+  406  cd gitlab
+  407  cd desktop
+  408  cd gitlab
+  409  cd
+  410  cd desktop
+  411  cd gitlab
+  412  cd UCB
+  413  cd UCB-VIRT-FIN-PT-09-2022-U-B
+  414  git pull
+  415  clear
+  416  cd ..
+  417  mkdir Git_Hub
+  418  cd Git_Hub/
+  419  git init
+  420  git clone git@github.com:marissagonzales468/Loan_Analyzer.git
+  421  ls -al ~/.ssh
+  422  ssh-keygen –t rsa –b 4096 –C "marissagonzales468@gmail.com"
+  423  eval "$(ssh-agent –s)"
+  424  ssh-add ~/.ssh/id_rsa.
+  425  cd desktop
+  426  ssh-add ~/.ssh/id_rsa.
+  427  cd ..
+  428  mkdir git_hub_uploads
+  429  cd git_hub/
+  430  cd gitlab
+  431  cd github/.
+  432  cd github/
+  433  cd GitHub,
+  434  git clone git@github.com:marissagonzales468/Loan_Analyzer.git
+  435  ls
+  436  cd loan_analyzer
+  437  ls -al ~/.ssh 
+  438  id_rsa.pub
+  439   ls ~/.ssh/*.pub
+  440  pip install fire==0.3.1 
+  441  git pull
+  442  cd desktop
+  443  cd
+  444  cd desktop
+  445  cd github
+  446  cd GitHub
+  447  __init__.py
+  448  /usr/local/bin/python3 /Users/marissagonzales/Downloads/03_Split_Second_Homebuying/Unsolved/M1L5.py
+  449  /usr/local/bin/python3 /Users/marissagonzales/Downloads/03_Split_Second_Homebuying/Unsolved/M1L5.py
+  450  /usr/local/bin/python3 /Users/marissagonzales/Downloads/03_Split_Second_Homebuying/Unsolved/M1L5.py
+  451  clear
+  452  /usr/local/bin/python3 /Users/marissagonzales/Downloads/03_Split_Second_Homebuying/Unsolved/M1L5.py
+  453  /usr/local/bin/python3 /Users/marissagonzales/Downloads/03_Split_Second_Homebuying/Unsolved/M1L5.py
+  454  /usr/local/bin/python3 /Users/marissagonzales/Downloads/03_Split_Second_Homebuying/Unsolved/M1L5.py
+  455  /usr/local/bin/python3 /Users/marissagonzales/Downloads/03_Split_Second_Homebuying/Unsolved/M1L5.py
+  456  clear
+  457  /usr/local/bin/python3 /Users/marissagonzales/Downloads/03_Split_Second_Homebuying/Unsolved/M1L5.py
+  458  /usr/local/bin/python3 /Users/marissagonzales/Downloads/03_Split_Second_Homebuying/Unsolved/M1L5.py
+  459  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Returned_Goods/Unsolved/returned_goods.py
+  460  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Returned_Goods/Unsolved/returned_goods.py
+  461  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Returned_Goods/Unsolved/returned_goods.py
+  462  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Returned_Goods/Unsolved/returned_goods.py
+  463  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Returned_Goods/Unsolved/returned_goods.py
+  464  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Returned_Goods/Unsolved/returned_goods.py
+  465  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Returned_Goods/Unsolved/returned_goods.py
+  466  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Returned_Goods/Unsolved/returned_goods.py
+  467  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Returned_Goods/Unsolved/returned_goods.py
+  468  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Returned_Goods/Unsolved/returned_goods.py
+  469  CLEAR
+  470  /usr/local/bin/python3 /Users/marissagonzales/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  471  /usr/local/bin/python3 /Users/marissagonzales/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  472  /usr/local/bin/python3 /Users/marissagonzales/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  473  /usr/local/bin/python3 /Users/marissagonzales/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  474  /usr/local/bin/python3 /Users/marissagonzales/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  475  /usr/local/bin/python3 Untitled-1
+  476  /usr/local/bin/python3 /Users/marissagonzales/Downloads/M1L6.py
+  477  clear
+  478  /usr/local/bin/python3 /Users/marissagonzales/Downloads/M1L6.py
+  479  /usr/local/bin/python3 /Users/marissagonzales/Downloads/M1L6.py
+  480  /usr/local/bin/python3 /Users/marissagonzales/Downloads/M1L6.py
+  481  /usr/local/bin/python3 /Users/marissagonzales/Downloads/M1L6.py
+  482  /usr/local/bin/python3 /Users/marissagonzales/Downloads/M1L6.py
+  483  /usr/local/bin/python3 /Users/marissagonzales/Downloads/M1L6.py
+  484  /usr/local/bin/python3 /Users/marissagonzales/Downloads/M1L6.py
+  485  /usr/local/bin/python3 /Users/marissagonzales/Desktop/FinTech_2/UCB-VIRT-FIN-PT-09-2022-U-B/02-Financial-Applications-Python/1/Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  486  /usr/local/bin/python3 /Users/marissagonzales/Desktop/FinTech_2/UCB-VIRT-FIN-PT-09-2022-U-B/02-Financial-Applications-Python/1/Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  487  123456
+  488  code .
+  489  \n```python\n  pip install fire\n  pip install questionary\n```
+  490  cd Downloads
+  491  ls
+  492  cd Class_2_Activities
+  493  code .
+  494  cd 01_Stu_Variables
+  495  cd Solved
+  496  python variables.py
+  497  python variables.py
+  498  /usr/local/bin/python3 /Users/marissagonzales/Desktop/FinTech_2/UCB-VIRT-FIN-PT-09-2022-U-B/02-Financial-Applications-Python/2/Activities/01_Ins_ATM_Application/Unsolved/atm/actions/make_deposit.py
+  499  conda activate dev
+  500  /usr/local/bin/python3 /Users/marissagonzales/Desktop/FinTech_2/UCB-VIRT-FIN-PT-09-2022-U-B/02-Financial-Applications-Python/2/Activities/01_Ins_ATM_Application/Unsolved/atm/actions/make_deposit.py
+  501  /usr/local/bin/python3 /Users/marissagonzales/Downloads/Class_2_Activities/01_Stu_Variables/Solved/variables.py
+  502  clear
+  503  /usr/local/bin/python3 Untitled-1
+  504  clear
+  505  /usr/local/bin/python3 Untitled-1
+  506  import pathlib
+  507  from pathlib import Path
+  508  import pathlib
+  509  pip install pathlib
+  510  import pathlib
+  511  pip install pathlib3
+  512  pip install pathlib2
+  513  import pathlib
+  514  python3 demo_toolbox.py
+  515  pip3 install pathlib
+  516  import pathlib
+  517  from pathlib import path
+  518  python3-pip
+  519  install python3-pip
+  520  install python3-venv
+  521  /usr/local/bin
+  522  c:\\python36
+  523  conda env list
+  524  python.envFile 
+  525  "python.envFile": "${workspaceFolder}/.env"
+  526  PYTHONPATH="C:\path\to\a;C:\path\to\b"
+  527  "env": { "PYTHONPATH": "/path/to/a:/path/to/b" }
+  528  from pathlib import Path\n\nmy_directory = Path(".")\nprint(my_directory)
+  529  cd Fintech-Workspace/
+  530  cd Fintech-Workspace
+  531  cd Fintech_Workspace/
+  532  cd desktop
+  533  cd Fintech_Workspace/
+  534  pwd
+  535  import csv
+  536  /usr/local/bin/python3 /Users/marissagonzales/Downloads/using_iterators_financial_automation
+  537  /usr/local/bin/python3 /Users/marissagonzales/Downloads/using_iterators_financial_automation
+  538  /usr/local/bin/python3 /Users/marissagonzales/Downloads/using_iterators_financial_automation
+  539  /usr/local/bin/python3 /Users/marissagonzales/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  540  clear
+  541  /usr/local/bin/python3 /Users/marissagonzales/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  542  /usr/local/bin/python3 /Users/marissagonzales/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  543  /usr/local/bin/python3 /Users/marissagonzales/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  544  clear
+  545  /usr/local/bin/python3 /Users/marissagonzales/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  546  /usr/local/bin/python3 /Users/marissagonzales/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  547  /usr/local/bin/python3 /Users/marissagonzales/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  548  clear
+  549  /usr/local/bin/python3 /Users/marissagonzales/Desktop/M1L6.py
+  550  /usr/local/bin/python3 /Users/marissagonzales/Desktop/M1L6.py
+  551  /usr/local/bin/python3 /Users/marissagonzales/Desktop/M1L6.py
+  552  /usr/local/bin/python3 /Users/marissagonzales/Desktop/M1L6.py
+  553  /usr/local/bin/python3 /Users/marissagonzales/Desktop/M1L6.py
+  554  /usr/local/bin/python3 /Users/marissagonzales/Desktop/M1L6.py
+  555  /usr/local/bin/python3 /Users/marissagonzales/Desktop/M1L6.py
+  556  clear
+  557  /usr/local/bin/python3 /Users/marissagonzales/Desktop/M1L6.py
+  558  /usr/local/bin/python3 /Users/marissagonzales/Desktop/M1L6.py
+  559  /usr/local/bin/python3 /Users/marissagonzales/Desktop/M1L6.py
+  560  /usr/local/bin/python3 /Users/marissagonzales/Desktop/M1L6.py
+  561  /usr/local/bin/python3 /Users/marissagonzales/Desktop/M1L6.py
+  562  /usr/local/bin/python3 /Users/marissagonzales/Desktop/M1L6.py
+  563  /usr/local/bin/python3 /Users/marissagonzales/Desktop/M1L6.py
+  564  /usr/local/bin/python3 /Users/marissagonzales/Desktop/M1L6.py
+  565  /usr/local/bin/python3 /Users/marissagonzales/Desktop/M1L6.py
+  566  /usr/local/bin/python3 /Users/marissagonzales/Desktop/M1L6.py
+  567  /usr/local/bin/python3 /Users/marissagonzales/Desktop/M1L6.py
+  568  /usr/local/bin/python3 /Users/marissagonzales/Desktop/M1L6.py
+  569  /usr/local/bin/python3 /Users/marissagonzales/Desktop/M1L6.py
+  570  /usr/local/bin/python3 /Users/marissagonzales/Desktop/M1L6.py
+  571  /usr/local/bin/python3 /Users/marissagonzales/Desktop/M1L6.py
+  572  /usr/local/bin/python3 /Users/marissagonzales/Desktop/M1L6.py
+  573  /usr/local/bin/python3 /Users/marissagonzales/Desktop/M1L6.py
+  574  /usr/local/bin/python3 /Users/marissagonzales/Desktop/M1L6.py
+  575  /usr/local/bin/python3 /Users/marissagonzales/Desktop/M1L6.py
+  576  import pathlib
+  577  /usr/local/bin/python3 /Users/marissagonzales/Downloads/using_iterators_financial_automation
+  578  import pathlib
+  579  /usr/local/bin/python3 /Users/marissagonzales/Desktop/M1L6.py
+  580  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  581  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  582  install 
+  583  python.condaPath ,
+  584  python.venvPath
+  585  run python 
+  586  import pathlib
+  587  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  588  from pathlib import Path\n\nmy_directory = Path(".")
+  589  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  590  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  591  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  592  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  593  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  594  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  595  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  596  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  597  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  598  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  599  clear
+  600  /usr/local/bin/python3 /Users/marissagonzales/Desktop/M1L6.py
+  601  /usr/local/bin/python3 /Users/marissagonzales/Desktop/M1L6.py
+  602  clear
+  603  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  604  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  605  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  606  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  607  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  608  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  609  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  610  /usr/local/bin/python3 /Users/marissagonzales/Downloads/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  611  /usr/local/bin/python3
+  612  /usr/local/bin/python3 /Users/marissagonzales/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  613  /usr/local/bin/python3 /Users/marissagonzales/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  614  /usr/local/bin/python3 /Users/marissagonzales/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  615  /usr/local/bin/python3 /Users/marissagonzales/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  616  /usr/local/bin/python3 /Users/marissagonzales/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  617  /usr/local/bin/python3 /Users/marissagonzales/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  618  /usr/local/bin/python3 /Users/marissagonzales/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  619  /usr/local/bin/python3 /Users/marissagonzales/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  620  /usr/local/bin/python3 /Users/marissagonzales/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  621  /usr/local/bin/python3 /Users/marissagonzales/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  622  /usr/local/bin/python3 /Users/marissagonzales/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  623  /usr/local/bin/python3 /Users/marissagonzales/Main.py
+  624  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Github_Upload/main.py
+  625  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  626  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  627  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  628  python loan_analyzer.py/usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  629  cd desktop
+  630  cd
+  631  cd file
+  632  cd desk
+  633  cd desktop
+  634  cd Fintech_P1M1
+  635  cd loan_analyzer
+  636  version--
+  637  python --version
+  638  cd desktop
+  639  python loan_analyzer.oy
+  640  python loan_analyzer.py
+  641  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  642  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  643  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  644  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  645  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  646  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  647  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  648  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  649  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  650  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  651  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  652  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  653  clear
+  654  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  655  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  656  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  657  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  658  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  659  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  660  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  661  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  662  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  663  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  664  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  665  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  666  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  667  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  668  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  669  #
+  670  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  671  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  672  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  673  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  674  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  675  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  676  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  677  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  678  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  679  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  680  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  681  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  682  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  683  clear
+  684  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  685  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  686  clear
+  687  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  688  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  689  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  690  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  691  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  692  clear
+  693  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  694  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  695  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  696  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  697  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  698  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  699  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  700  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  701  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  702  /usr/local/bin/python3
+  703  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  704  clear
+  705  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  706  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  707  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  708  clear
+  709  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  710  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  711  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  712  clear
+  713  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  714  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  715  clear
+  716  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  717  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  718  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  719  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  720  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  721  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  722  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  723  clear
+  724  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  725  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  726  clear
+  727  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  728  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  729  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  730  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  731  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  732  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  733  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  734  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  735  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  736  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  737  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  738  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  739  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  740  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  741  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  742  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  743  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  744  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  745  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  746  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  747  clear
+  748  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  749  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  750  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  751  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  752  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  753  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  754  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  755  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  756  clear
+  757  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  758  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  759  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  760  clear
+  761  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  762  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  763  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  764  clear
+  765  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  766  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  767  clear
+  768  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  769  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  770  clear
+  771  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  772  clear
+  773  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  774  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  775  clear
+  776  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  777  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  778  clear
+  779  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  780  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  781  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  782  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  783  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  784  clear
+  785  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  786  clear
+  787  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  788  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  789  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  790  clear
+  791  clear
+  792  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  793  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  794  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  795  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  796  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  797  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  798  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  799  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  800  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  801  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  802  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  803  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  804  clear
+  805  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  806  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  807  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  808  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  809  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  810  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  811  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  812  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  813  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  814  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  815  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  816  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  817  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  818  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  819  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  820  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  821  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  822  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  823  clear
+  824  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  825  clear
+  826  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  827  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  828  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  829  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.py
+  830  /usr/local/bin/python3 /Users/marissagonzales/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  831  /usr/local/bin/python3 /Users/marissagonzales/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  832  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  833  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  834  python apppy
+  835  python app.py
+  836  /usr/local/bin/python3 /Users/marissagonzales/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  837  /usr/local/bin/python3 /Users/marissagonzales/Modular_Programming/app.py
+  838  /usr/local/bin/python3 /Users/marissagonzales/Modular_Programming/app.py
+  839  python app.py
+  840  /usr/local/bin/python3 /Users/marissagonzales/Modular_Programming/calculator.py
+  841  /usr/local/bin/python3 /Users/marissagonzales/Modular_Programming/calculator.py
+  842  /usr/local/bin/python3 /Users/marissagonzales/Modular_Programming/app.py
+  843  /usr/local/bin/python3 /Users/marissagonzales/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  844  python app.py
+  845  python app.py
+  846  /usr/local/bin/python3 /Users/marissagonzales/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  847  /usr/local/bin/python3 /Users/marissagonzales/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  848  conda activate pip
+  849  conda activate dev
+  850  pip -V
+  851  pip freeze
+  852  /usr/local/bin/python3 /Users/marissagonzales/Desktop/Fintech_P1M1/loan_analyzer.pypip install fire
+  853  pip install fire
+  854  pip install questionary
+  855  clear
+  856  python.app py
+  857  cd desktop
+  858  clear
+  859  conda activate dev
+  860  conda env list
+  861  pip install jupyterlab
+  862  jupyter_lab
+  863  conda deactivate dev
+  864  conda deactivate
+  865  jupyter lab
+  866  git pull
+  867  cd desktop
+  868  cd FinTech_2
+  869  cd /Users/marissagonzales/Desktop/FinTech_2/UCB-VIRT-FIN-PT-09-2022-U-B 
+  870  git pull
+  871  jupyter lab
+  872  pwd
+  873  /Users/admin/documents/python-workspace
+  874  pip install fire 
+  875  import fire
+  876  /usr/local/bin/python3 /Users/marissagonzales/Desktop/cli.py/cli.py
+  877  pip install fire
+  878  /usr/local/bin/python3 /Users/marissagonzales/Desktop/cli.py/cli.py
+  879  python cli.py
+  880  /usr/local/bin/python3 /Users/marissagonzales/Desktop/cli.py/cli.py
+  881  python cli.py--pants=True
+  882  conda activate dev
+  883  python cli.py --pants=True
+  884  /usr/local/bin/python3 /Users/marissagonzales/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  885  python app.py
+  886  /usr/local/bin/python3 /Users/marissagonzales/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  887  python app.py --credit_score=750
+  888  python app.py --credit_score=450
+  889  conda activate dev
+  890  python app.py--credit_score=450
+  891  pip install fire
+  892  /usr/local/bin/python3 /Users/marissagonzales/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  893  pip install questionary
+  894  python dialog.py
+  895  /usr/local/bin/python3 Untitled-1
+  896  python dialog.py/usr/local/bin/python3 Untitled-1
+  897  /usr/local/bin/python3 /Users/marissagonzales/Desktop/dialog.py
+  898  /usr/local/bin/python3 /Users/marissagonzales/Desktop/dialog.py
+  899  python dialog.py
+  900  python-app.py
+  901  git config --global user.name <marissa gonzales>
+  902  git config --global user.name <marissagonzales>
+  903  git config --global user.name <marissagonzales468>
+  904  git config --global user.name' <marissagonzales468>'
+  905  git config --list
+  906  git config --get-all user.name
+  907  git clone '<https://github.com/marissagonzales468/Test_Repo.git>'
+  908  cd 
+  909  cd desktop
+  910  git clone '<https://github.com/marissagonzales468/Test_Repo.git>'\n
+  911  git clone <https://github.com/marissagonzales468/Test_Repo.git>\n
+  912  git clone https://github.com/marissagonzales468/Test_Repo.git
+  913  git clone "https://github.com/marissagonzales468/Test_Repo.git"
+  914  pwd
+  915  cd Test_Repo
+  916  git status
+  917  git add README.md
+  918  touch
+  919  touch new_file.txt
+  920  ls
+  921  git status
+  922  git add new_file.txt
+  923  git status
+  924  git add .
+  925  git commit -m "<edited readme and added new text file"
+  926  git commit -m "<edited readme and added new text file"
+  927  git push
+  928  jupyter
+  929  cd desktop
+  930  cd fintech_2
+  931  pip install jupyterlab
+  932  jupyter lab
+  933  /Applications/Python\ 3.10/Install\ Certificates.command ; exit;
+  934  python--
+  935  version python
+  936  pip install python3
+  937  version python
+  938  python
+  939  conda activate dev
+  940  jupyter lab
+  941  /usr/local/bin/python3 /Users/marissagonzales/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  942  /usr/local/bin/python3 /Users/marissagonzales/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  943  /usr/local/bin/python3 /Users/marissagonzales/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  944  /usr/local/bin/python3 /Users/marissagonzales/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  945  /usr/local/bin/python3 /Users/marissagonzales/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  946  /usr/local/bin/python3 /Users/marissagonzales/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  947  clear
+  948  /usr/local/bin/python3 /Users/marissagonzales/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  949  /usr/local/bin/python3 /Users/marissagonzales/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  950  history_/usr/local/bin/python3 /Users/marissagonzales/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  951  python 3
+  952  run app.py
+  953  /usr/local/bin/python3 /Users/marissagonzales/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  954  /usr/local/bin/python3 /Users/marissagonzales/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  955  /usr/local/bin/python3 /Users/marissagonzales/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  956  pip install fire
+  957  import fire
+  958  /usr/local/bin/python3 /Users/marissagonzales/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  959  conda activate dev
+  960  history 50 > terminal_history.txt
+  961  clear
+  962  /usr/local/bin/python3 /Users/marissagonzales/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  963  /usr/local/bin/python3 /Users/marissagonzales/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  964  pip install fire
+  965  /usr/local/bin/python3 /Users/marissagonzales/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  966  conda install fire
+  967  /usr/local/bin/python3 /Users/marissagonzales/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  968  /usr/local/bin/python3 /Users/marissagonzales/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  969  pip install fire
+  970  pip3 install fire
+  971  /usr/local/bin/python3 /Users/marissagonzales/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  972  pip3 install questionary
+  973  /usr/local/bin/python3 /Users/marissagonzales/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  974  /usr/local/bin/python3 /Users/marissagonzales/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  975  /usr/local/bin/python3 /Users/marissagonzales/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  976  /usr/local/bin/python3 /Users/marissagonzales/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  977  /usr/local/bin/python3 /Users/marissagonzales/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  978  /usr/local/bin/python3 /Users/marissagonzales/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  979  python app.py
+  980  python app.py
+  981  python app.py
+  982  python app.py
+  983  python app.py
+  984  python app.py
